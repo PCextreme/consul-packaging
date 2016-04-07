@@ -1,3 +1,9 @@
+consul (0.6.4-2) unstable; urgency=low
+
+  * Fix in Upstart script
+
+ -- Wido den Hollander <wido@pcextreme.nl>  Thu, 7 Apr 2016 17:02:12 +0200
+
 consul (0.6.4-1) unstable; urgency=low
 
   * Consul version 0.6.4

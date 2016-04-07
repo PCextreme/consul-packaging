@@ -1,3 +1,4 @@
+/etc/init/consul.conf
 /etc/consul
 /usr/bin/consul
 /var/lib/consul
