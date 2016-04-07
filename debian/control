@@ -1,0 +1,12 @@
+Source: consul
+Section: libs
+Priority: extra
+Maintainer: Wido den Hollander <wido@pcextreme.nl>
+Standards-Version: 3.8.1
+Homepage: http://consul.io/
+
+Package: consul
+Architecture: all
+Depends: upstart
+Build-Depends: unzip, curl
+Description: Consul has multiple components, but as a whole, it is a tool for discovering and configuring services in your infrastructure.
