@@ -8,7 +8,7 @@ of Consul.
 This repository contains the scripts to create Debian/Ubuntu packages so that
 Consul is easy to set up.
 
-# Build packages
+## Build packages
 Make sure you have these dependencies installed:
 * dpkg-dev
 * curl
@@ -20,6 +20,10 @@ You can then build the package easily:
 
 This should give you a .deb package ready for installation!
 
-# Supported distributions
+## Supported distributions
 This was tested on Ubuntu 14.04 with Upstart. Support for Ubuntu 16.04 will be
 added at a later point.
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
